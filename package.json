@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ldetomas/test-backend/issues"
   },
-  "homepage": "https://github.com/ldetomas/test-backend#readme"
+  "homepage": "https://github.com/ldetomas/test-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
